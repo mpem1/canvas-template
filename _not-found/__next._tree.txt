@@ -1,0 +1,5 @@
+:HL["/canvas-template/_next/static/chunks/198a2-pw2gmka.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=DM+Sans:wght@400;500;700&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&family=Merriweather:wght@400;700&family=Oswald:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"uftcQilvxi42gr69ZkOan","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
