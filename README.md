@@ -49,12 +49,12 @@ stack.
 
 ## GitHub Pages
 
-`.github/workflows/deploy-pages.yml` builds a static export on every push to
-`main` and deploys it to Pages. Enable once: **Settings -> Pages -> Source:
-GitHub Actions** (the workflow also does this automatically if the token has
-admin rights). The export is gated by `STATIC_EXPORT=1` in `next.config.ts`
-and sets `basePath: /canvas-template` — if you rename the repository, update
-that one value.
+`.github/workflows/deploy-pages.yml` runs on every push to `main`: it builds
+the static export (`STATIC_EXPORT=1 npx next build`) and force-publishes
+`out/` to the `gh-pages` branch, from which GitHub Pages serves the site —
+fully automatic, no manual steps. The export is configured in
+`next.config.ts` with `basePath: /canvas-template` — if you rename the
+repository, update that one value (and the demo link above).
 
 ## Project structure
 
