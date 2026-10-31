@@ -6,8 +6,8 @@ export — with nothing to install and nothing uploaded: every document and
 preset lives in your browser, and anything you want to keep forever can be
 downloaded as a file.
 
-**Live demo:** https://mpem1.github.io/canvas-template/ (after the first
-Actions run finishes)
+**Live demo:** https://mpem1.github.io/canvas-template/ — free GitHub
+Pages hosting, updated automatically on every push to `main`.
 
 ## Features
 
